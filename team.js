@@ -24,13 +24,17 @@ const teamMembers = [
     petName: ""
   }
 
-
-
-
-
-
-
-
-
-
 ];
+
+function juegaLol(teamMembers){
+let jugadores=[];
+teamMembers.forEach(persona => {
+  if(persona.favoriteVideoGame == ("League Of Legends")){
+    jugadores.push(persona.name + " " + persona.surname)
+  };
+});
+
+return jugadores;
+}
+
+console.log(juegaLol(teamMembers));
