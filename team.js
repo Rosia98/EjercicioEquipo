@@ -5,7 +5,7 @@ const teamMembers = [
     age: "19",
     city: "Pamplona",
     hobby: "Chess",
-    favoriteFood: "Cesar salad",
+    favoriteFood: "Caesar salad",
     favoriteVideoGame: "Devil may cry 3",
     favoriteFilm: "Cars",
     favoriteBook: "El perfume",
