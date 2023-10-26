@@ -12,6 +12,18 @@ const teamMembers = [
     petName: "Loki",
   },
   {
+    name: "Jeizer",
+    surname: "Valarezo",
+    age: "19",
+    city: "Pamplona",
+    hobby: "Chess",
+    favoriteFood: "Caesar salad",
+    favoriteVideoGame: "League Of Legends",
+    favoriteFilm: "Cars",
+    favoriteBook: "El perfume",
+    petName: "nakel",
+  },
+  {
     name: "Miguel",
     surname: "Morón",
     age: "23",
